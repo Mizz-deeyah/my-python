@@ -1,0 +1,24 @@
+def student_scores(scores ):
+
+    highest_scores =[0]
+    lowest_scores = [0]
+    total = [0]
+     passed[0]
+
+     for score in scores:
+     total += score
+
+     if score > highest:
+        highest = score
+
+     if score < lowest:
+        lowest = score
+     if score >= 50:
+        passed += 1
+
+average = round (total/len(scores)
+
+print("highest:", highest)
+print("lowest:", lowest)
+print("average:, average)
+print("passed:, passed)
